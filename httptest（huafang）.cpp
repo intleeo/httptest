@@ -72,7 +72,7 @@ int main() {
 
     InternetCloseHandle(hIntSession);
     //system("ipconfig");
-    //system("net use X: \\\\10.16.129.56\\tools\\pack \"woshililei4613@\" /user:lilei-hj");
+    //system("net use X: \\\\10.16.129.56\\tools\\pack \"password\" /user:adminusername");
         // 显示提示框
     int result = MessageBox(NULL, "Pass！", "提示", MB_OK);
 
